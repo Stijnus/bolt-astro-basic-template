@@ -1,0 +1,22 @@
+You are working with an Astro static site generator template.
+
+This template includes:
+- Astro configuration (astro.config.mjs)
+- TypeScript support (tsconfig.json)
+- Public assets folder for static files
+- Src folder with pages and components
+- Modern build tooling and development server
+
+Key features:
+- Fast static site generation
+- Component-based architecture
+- TypeScript support out of the box
+- Optimized build output
+- Development server with hot reload
+
+To get started:
+1. Install dependencies: npm install
+2. Start development server: npm run dev
+3. Build for production: npm run build
+
+The template is ready for building static websites, blogs, or documentation sites with Astro.
